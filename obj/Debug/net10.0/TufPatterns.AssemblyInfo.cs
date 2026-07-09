@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TufPatterns")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92e3e2a17bc8149fa821bdcdea3dcdb599e8cadd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TufPatterns")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TufPatterns")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

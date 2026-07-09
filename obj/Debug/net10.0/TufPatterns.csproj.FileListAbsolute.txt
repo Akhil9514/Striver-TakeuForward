@@ -12,3 +12,4 @@ E:\Job-projects\dsa\striver-takeuforward\TufPatterns\obj\Debug\net10.0\refint\Tu
 E:\Job-projects\dsa\striver-takeuforward\TufPatterns\obj\Debug\net10.0\TufPatterns.pdb
 E:\Job-projects\dsa\striver-takeuforward\TufPatterns\obj\Debug\net10.0\TufPatterns.genruntimeconfig.cache
 E:\Job-projects\dsa\striver-takeuforward\TufPatterns\obj\Debug\net10.0\ref\TufPatterns.dll
+E:\Job-projects\dsa\striver-takeuforward\TufPatterns\obj\Debug\net10.0\TufPatterns.sourcelink.json
