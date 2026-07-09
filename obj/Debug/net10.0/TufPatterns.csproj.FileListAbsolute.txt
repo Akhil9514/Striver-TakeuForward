@@ -1,0 +1,14 @@
+E:\Job-projects\dsa\striver-takeuforward\TufPatterns\bin\Debug\net10.0\TufPatterns.exe
+E:\Job-projects\dsa\striver-takeuforward\TufPatterns\bin\Debug\net10.0\TufPatterns.deps.json
+E:\Job-projects\dsa\striver-takeuforward\TufPatterns\bin\Debug\net10.0\TufPatterns.runtimeconfig.json
+E:\Job-projects\dsa\striver-takeuforward\TufPatterns\bin\Debug\net10.0\TufPatterns.dll
+E:\Job-projects\dsa\striver-takeuforward\TufPatterns\bin\Debug\net10.0\TufPatterns.pdb
+E:\Job-projects\dsa\striver-takeuforward\TufPatterns\obj\Debug\net10.0\TufPatterns.GeneratedMSBuildEditorConfig.editorconfig
+E:\Job-projects\dsa\striver-takeuforward\TufPatterns\obj\Debug\net10.0\TufPatterns.AssemblyInfoInputs.cache
+E:\Job-projects\dsa\striver-takeuforward\TufPatterns\obj\Debug\net10.0\TufPatterns.AssemblyInfo.cs
+E:\Job-projects\dsa\striver-takeuforward\TufPatterns\obj\Debug\net10.0\TufPatterns.csproj.CoreCompileInputs.cache
+E:\Job-projects\dsa\striver-takeuforward\TufPatterns\obj\Debug\net10.0\TufPatterns.dll
+E:\Job-projects\dsa\striver-takeuforward\TufPatterns\obj\Debug\net10.0\refint\TufPatterns.dll
+E:\Job-projects\dsa\striver-takeuforward\TufPatterns\obj\Debug\net10.0\TufPatterns.pdb
+E:\Job-projects\dsa\striver-takeuforward\TufPatterns\obj\Debug\net10.0\TufPatterns.genruntimeconfig.cache
+E:\Job-projects\dsa\striver-takeuforward\TufPatterns\obj\Debug\net10.0\ref\TufPatterns.dll
