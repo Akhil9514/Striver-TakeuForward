@@ -1,3 +1,3 @@
 ﻿Console.WriteLine("Striver-TakeuForward Patterns");
-Pattern7.Run();
+Pattern11.Run();
 
