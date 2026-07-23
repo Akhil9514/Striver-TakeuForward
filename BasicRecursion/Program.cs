@@ -1,1 +1,1 @@
-﻿Factorial.Run();
+﻿Fibonacci.Run();
