@@ -23,8 +23,6 @@ public class ArmstrongChk
         if(sum == int.Parse(num))Console.Write("Armstrong Num");
         else Console.Write("Not an Armstrong Num");
         
-        // Console.WriteLine(n / 10);
-        // Console.WriteLine(n % 10);
     }
     
 }
