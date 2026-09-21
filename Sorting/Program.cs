@@ -1,2 +1,2 @@
 ﻿Console.WriteLine("Sorting Techniques");
-SelectionSort.Run();
+InsertionSort.Run();
